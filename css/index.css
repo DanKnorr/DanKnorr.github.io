@@ -1,0 +1,61 @@
+body {
+    background-color: #1c313a;
+}
+html {
+    height: 100vh;
+}
+header {
+    display: flex;
+    height: 30vh;
+}
+#music-header {
+    display: flex;
+    height: 20vh;
+}
+header p {
+    color: #6abf69;
+    font-size: 60px;
+    padding-top: 20px;
+}
+a {
+    padding-left: 20px;
+    font-size: 30px;
+}
+#intro-tag, .video-box {
+    display: flex;
+    justify-content: center;
+}
+#tagline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tagline p {
+    color: #6abf69;
+}
+.btn-panel {
+    display: flex;
+    justify-content: center;
+}
+#btn-box {
+    padding-top: 20px;
+    align-items: center;
+}
+.btn {
+    color: black;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    width: 15vw;
+    height: 45px;
+    background-color: #6abf69 !important; 
+}
+p {
+    font-size: 40px;
+    font-family: 'Satisfy', cursive;
+    color: #6abf69;
+}
+.video-bio {
+    font-size: 20px;
+}
+
+
